@@ -3,10 +3,10 @@
 
     let steps = [
         {
-            name: "Smoljames Store",
-            icon: "fa-solid fa-cart-shopping",
+            name: "Fintech enthusiast",
+            icon: "fa-solid fa-credit-card-alt",
             description:
-                "Smoljames Store is a a merchanising store created with Next.js, Commerce.js & Stripe! Commerce.js is a CMS for managing project and Stripe is used for all transaction handling.",
+                "Passionate about the intersection of finance and technology. Constantly exploring innovative solutions to revolutionize the financial industry, from blockchain technology to AI-driven financial planning. Committed to making financial services more accessible and efficient through technology.",
         },
         {
             name: "Utlimate Todos",
@@ -110,11 +110,9 @@
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
             <Step step={steps[0]}>
                 <p>
-                    Smoljames Store is a a merchanising store created with <strong
-                        class="text-blue-400"
-                        >Next.js, Commerce.js, Stripe & Node.js + Express.js!</strong
-                    > Commerce.js is a product CMS and Stripe is used for all transaction
-                    handling.
+                    Passionate about the intersection of  <strong class="text-blue-400">finance and technology</strong>. Constantly exploring innovative solutions 
+                    to revolutionize the financial industry, from <strong class="text-blue-400">blockchain technology to AI-driven financial planning</strong>. Committed to making financial services more 
+                    accessible and efficient through technology.",
                 </p>
             </Step>
             <Step step={steps[1]}>
