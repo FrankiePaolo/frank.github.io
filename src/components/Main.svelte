@@ -30,9 +30,9 @@
                 "I taught myself to code using free online resources and absolutely fell in love with the creativity and problem solving that is involved in developing and engineering innovative new online experiences. Starting of with JavaScript, HTML & CSS and evolving my knowledge base to include JavaScript frameworks, backend programming, design, cloud services and much much more.",
         },
         {
-            name: "a product design & UX finatic",
+            name: "an algorithm designer",
             description:
-                "Carefully crafting and designing amazing user experiences allows me to express and experiment with every morsel of creativity I have. I love the challenge of learning new design concepts and enabling users with amazing online experiences.",
+                "Immersing myself in the intricate world of algorithms allows me to express and experiment with every bit of my logical and analytical skills. I relish the challenge of learning new algorithmic concepts and enabling systems with efficient and effective solutions.",
         },
         {
             name: "an excellent communicator",
@@ -112,7 +112,7 @@
                 <p>
                     Passionate about the intersection of  <strong class="text-blue-400">finance and technology</strong>. Constantly exploring innovative solutions 
                     to revolutionize the financial industry, from <strong class="text-blue-400">blockchain technology to AI-driven financial planning</strong>. Committed to making financial services more 
-                    accessible and efficient through technology.",
+                    accessible and efficient through technology.
                 </p>
             </Step>
             <Step step={steps[1]}>
