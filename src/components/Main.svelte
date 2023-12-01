@@ -25,9 +25,9 @@
     let benefits = [
         {
             metric: "10x",
-            name: "a self taught developer",
+            name: "an experienced software engineer",
             description:
-                "I taught myself to code using online resources and absolutely fell in love with the creativity and problem solving that is involved in developing and engineering innovative new online experiences. Starting of with JavaScript, HTML & CSS and evolving my knowledge base to include JavaScript frameworks, backend programming, design, cloud services and much much more.",
+                "I bring extensive experience as a software engineer with a proven track record of delivering high-quality solutions for major clients. My portfolio includes significant contributions to projects for industry leaders, showcasing my expertise in areas such as Java, Scala, functional and parallel programming, Typescript, Python, C, and cloud services. I worked as a fullstack and backend developer. My main focus has always been on the back-end even though I'm currently experimenting with the wonderful Svelte. Many of my most impactful achievements are under strict NDAs, highlighting my commitment to confidentiality and my involvement in cutting-edge, proprietary technologies.",
         },
         {
             name: "an algorithm designer",
