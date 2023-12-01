@@ -27,7 +27,7 @@
             metric: "10x",
             name: "an experienced software engineer",
             description:
-                "I bring extensive experience as a software engineer with a proven track record of delivering high-quality solutions for major clients. My portfolio includes significant contributions to projects for industry leaders, showcasing my expertise in areas such as Java, Scala, functional and parallel programming, Typescript, Python, C, and cloud services. I worked as a fullstack and backend developer. My main focus has always been on the back-end even though I'm currently experimenting with the wonderful Svelte. Many of my most impactful achievements are under strict NDAs, highlighting my commitment to confidentiality and my involvement in cutting-edge, proprietary technologies.",
+                "I bring extensive experience as a software engineer with a proven track record of delivering high-quality solutions for major clients. My portfolio includes significant contributions to projects for industry leaders, showcasing my expertise in areas such as Java, Scala, functional and parallel programming, Typescript, Python, C, and cloud services. I worked as a fullstack and backend developer. My main focus has always been on the back-end even though I'm currently experimenting with the wonderful Svelte Many of my most impactful achievements are under strict NDAs, highlighting my commitment to confidentiality and my involvement in cutting-edge, proprietary technologies.",
         },
         {
             name: "an algorithm designer",
