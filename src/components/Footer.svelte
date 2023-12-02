@@ -17,10 +17,10 @@
         </div>
         <p class="mx-auto text-sm opacity-70">or</p>
         <p class="">Hugh_jass@gmail.com</p> -->
-        <p><b class="pr-2">Email</b>p.frankie977@gmail.com</p>
+        <p><b class="pr-2">Email</b>frankpaolo@proton.me</p>
         <p>
             <b class="pr-2">GitHub</b>
-            <a href=" " target="_blank" class="text-blue-400"
+            <a href="https://github.com/FrankiePaolo" target="_blank" class="text-blue-400"
                 >frank_castiglione<sup class=""
                     ><span class="text-xs scale-75 pl-0.5"
                         ><i
@@ -32,7 +32,7 @@
         </p>
         <p>
             <b class="pr-2">LinkedIn</b>
-            <a href=" " target="_blank" class="text-blue-400"
+            <a href="https://www.linkedin.com/in/francesco-paolo-c-80a374150/" target="_blank" class="text-blue-400"
                 >frank_castiglione<sup class=""
                     ><span class="text-xs scale-75 pl-0.5"
                         ><i

@@ -9,14 +9,14 @@
                 "Passionate about the intersection of finance and technology. Constantly exploring innovative solutions to revolutionize the financial industry, from blockchain technology to AI-driven financial planning. Committed to making financial services more accessible and efficient through technology.",
         },
         {
-            name: "Utlimate Todos",
-            icon: "fa-solid fa-list-check",
+            name: "Data science",
+            icon: "fa-solid fa-bar-chart",
             description:
                 "Test for model robustness with customized test profiles and receive exhaustive reporting on the performance and potential vulnerabilities of your model.",
         },
         {
-            name: "Pokédex",
-            icon: "fa-solid fa-diagram-project",
+            name: "MarketWatch Dashnboard",
+            icon: "fa-solid fa-area-chart",
             description:
                 "Augment your datasets with our filters and dataset manipulations to ensure your models are trained on the highest quality datasets (coming soon).",
         },
@@ -117,26 +117,19 @@
             </Step>
             <Step step={steps[1]}>
                 <p>
-                    Ultimate Todos is a Full Stack <strong
-                        class="text-blue-400">Next.js</strong
-                    >,
-                    <strong class="text-blue-400">Node.js + Express.js</strong
-                    >
-                    & <strong class="text-blue-400">Firebase</strong> CRUD application
-                    that allows a user to login, manage a tidy and efficacious todo
-                    list, and persist this information across devices.
+                    Ultimate Data Science Tasks is a comprehensive solution utilizing <strong class="text-blue-400">Python</strong>,
+                    <strong class="text-blue-400">Jupyter Notebooks</strong>, and <strong class="text-blue-400">Pandas</strong>,
+                    designed for seamless data analysis, visualization, and machine learning exploration. This application empowers users to interact with datasets, conduct efficient data processing, and ensure persistence of valuable insights across analytical workflows.
                 </p>
             </Step>
             <Step step={steps[2]}>
                 <p>
-                    The Pokédex is a <strong class="text-blue-400"
-                        >SvelteKit & TailwindCSS</strong
+                    The MarketWatch Dashboard is a <strong class="text-blue-400"
+                        >Svelte & Bulma</strong
                     >
-                    web application, hosted on
-                    <strong class="text-blue-400">Netlify</strong>, that
-                    consumes and caches the
-                    <strong class="text-blue-400">Pokémon API</strong>
-                    to display all Pokémon information. Gotta catch them all!
+                    web application, deployed on
+                    <strong class="text-blue-400">Heroku</strong>, designed to analyze and visualize live market data sourced from the
+                    <strong class="text-blue-400">Financial Market API</strong>. Stay informed and make data-driven decisions in the dynamic world of finance!
                 </p>
             </Step>
         </div>
